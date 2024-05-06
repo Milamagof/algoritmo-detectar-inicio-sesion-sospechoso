@@ -1,5 +1,5 @@
-"""Programa que se ejecute cada momento en que
-un nuevo usuario inicia sesión y verifique si ese usuario ha tenido
+"""Se ejecuta cada momento en que
+un nuevo usuario inicia sesión y verifica si ese usuario ha tenido
 tres o más intentos fallidos de inicio de sesión """
 
 # Abrir, leer y split el archivo de texto
